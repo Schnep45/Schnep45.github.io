@@ -2,7 +2,7 @@
 title: Phil Schneider
 email: philipschneider4@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
-baseurl: "/stuff" # the subpath of your site, e.g. /blog
+baseurl: "/phil" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Identity
