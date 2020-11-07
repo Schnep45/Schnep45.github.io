@@ -1,4 +1,5 @@
 # Site settings
+theme: identity
 title: Identity
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
