@@ -40,10 +40,10 @@
 		@include vendor('background-image', (
 			'url("../../assets/images/bg.jpg")'
 		));
-		background-repeat:		no-repeat,			no-repeat,			no-repeat;
-		background-size:		100px 100px,	cover,				cover;
-		background-position:	top left,		center center,		bottom center;
-		background-attachment:	fixed,			fixed,				fixed;
+		background-repeat:		no-repeat;
+		background-size:		cover;
+		background-position:	bottom center;
+		background-attachment:	fixed;
 
 		&:after {
 			content: '';
@@ -60,9 +60,9 @@
 			@include vendor('background-image', (
 				'url("images/overlay.png")'
 			));
-			background-repeat:		no-repeat,			no-repeat;
-			background-size:		100px 100px,	cover;
-			background-position:	top left,		center center;
+			background-repeat:		no-repeat;
+			background-size:		100px 100px;
+			background-position:	top left;
 
 			@include vendor('transition', 'opacity #{_duration(bg)} ease-out');
 		}
