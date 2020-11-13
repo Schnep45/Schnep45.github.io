@@ -1,5 +1,5 @@
 # Site settings
-title: Identity
+title: Phil Schneider
 email: philipschneider4@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "philaschneider.com" # the base hostname & protocol for your site
 
 # Identity
 your-name: Phil Schneider
-your-title: Engineer
+your-title:
 
 # Social settings
 500px_url:
