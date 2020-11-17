@@ -1,6 +1,6 @@
 # Site settings
 title: Phil Schneider
-description: 'I am an engineer with expertise in structural analysis.'
+description: 'ENGINEER | ATHLETE | ARTIST'
 url: 'philaschneider.com'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -13,7 +13,7 @@ author:
   twitter_username:
   facebook_username:
   github_username:  Schnep45
-  linkedin_username:  Philip Schneider
+  linkedin_username:  philip-schneider-b582411aa
 
 defaults:
   -
