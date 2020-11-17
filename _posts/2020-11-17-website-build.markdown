@@ -11,10 +11,10 @@ I have used Git as a code repository so when I found out that [GitHub Pages] pro
 Picking a static site generator took some more research. There are a lot of [static site generators] out there, but [Jekyll] looked like it would be a great option.
 [Jekyll] is a simple static site generator written in Ruby that was developed by one of the co-founders of GitHub. 
 A static site works great for what I need. The abundant [themes] available from the [Jekyll] community give a good starting off point, 
-it is easy to add posts to the site via markdown files, and its compatible with [GitHub Pages].
+it is easy to add posts via markdown files, and its compatible with [GitHub Pages].
 
 Once I decided what I was going to use to build and host the site I found a theme I liked ([jekyll uno]) and started to customize
-it by by changing the html and css in the repository. Some of the things I changed include the fonts, images, data, gradients, font sizes for different page size,
+it by by changing the HTML and CSS in the repository. Some of the things I changed include the fonts, images, data, gradients, font sizes for different page size,
 and adding a picture preview to the catalogue for the posts.
 
 This has been a great opportunity for me to learn about the topics below, and I am very happy with how the site turned out.
