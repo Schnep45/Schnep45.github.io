@@ -1211,7 +1211,7 @@ hr {
 	width: 100%;
 	max-width: none;
 	height: 100%;
-	background: url(../images/background-cover.jpg) top left no-repeat #CCC;
+	background: url(../images/background-cover.jpg) top left no-repeat #FFF;
 	background-size: cover; }
 
 .panel-cover--collapsed {
@@ -1454,6 +1454,53 @@ i {
 	font-size: 22px;
 	display: block;
 	position: relative; }
+.post {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  min-height: 11rem;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all .3s ease;
+  box-shadow: 0 1px 1px 0 rgba(31, 35, 46, .15);
+  &:hover {
+    transform: translate(0px, -2px);
+    box-shadow: 0 15px 45px -10px rgba(10, 16, 34, .2);
+  }
+
+  .post-thumbnail {
+    width: 30%;
+    max-width: 100%;
+    min-height: 11rem;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  .post-content {
+    padding: 1rem;
+    width: 70%;
+    .post-date,
+    .post-words {
+      font-size: 12px;
+    }
+    .post-title {
+      margin: 0 0 10px;
+      font-size: 30px;
+      font-weight: 400;
+      a {
+        font-family: 'PT Serif', serif;
+        text-decoration: none;
+        color: #263959;
+      }
+    }
+    p {
+      margin-top: 0;
+    }
+  }
+}
 
 .post-list {
 	margin: 0;
