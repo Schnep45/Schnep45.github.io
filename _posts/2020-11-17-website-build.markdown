@@ -3,7 +3,7 @@ title:  "Building this Site"
 date:   2020-11-17
 categories: [code]
 tags: [code]
-img: jekyll-image.png # Add image post (optional)
+img: jekyll-image.jpg # Add image post (optional)
 ---
 
 Building this site was my first dive into web development. I knew I didn't want to build everything from scratch, but I
