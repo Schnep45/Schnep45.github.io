@@ -3,15 +3,17 @@ title:  "Building this Site"
 date:   2020-11-17
 categories: [code]
 tags: [code]
+img: jekyll-image.png # Add image post (optional)
 ---
+
 Building this site was my first dive into web development. I knew I didn't want to build everything from scratch, but I
-also wanted to learn about whats in the "guts" of a website so I didn't want to use a gui based website builder. 
-After doing some research I decided to build a site using [Jekyll] as a site generator and hosting it on [GitHub Pages].
+also wanted to learn about what's in the "guts" of a website so I didn't want to use a GUI based website builder. 
+After doing some research, I decided to build a site using [Jekyll] as a site generator and hosting it on [GitHub Pages].
 I have used Git as a code repository so when I found out that [GitHub Pages] provided website hosting for free it was an easy choice.
 Picking a static site generator took some more research. There are a lot of [static site generators] out there, but [Jekyll] looked like it would be a great option.
 [Jekyll] is a simple static site generator written in Ruby that was developed by one of the co-founders of GitHub. 
-A static site works great for what I need. The abundant [themes] available from the [Jekyll] community give a good starting off point, 
-it is easy to add posts via markdown files, and its compatible with [GitHub Pages].
+A static site works great for what I need. The abundant [themes] available from the [Jekyll] community give a good starting off point. 
+It is easy to add posts via markdown files, and it's compatible with [GitHub Pages].
 
 Once I decided what I was going to use to build and host the site I found a theme I liked ([jekyll uno]) and started to customize
 it by by changing the HTML and CSS in the repository. Some of the things I changed include the fonts, images, data, gradients, font sizes for different page size,
